@@ -2,7 +2,7 @@
 
 请补充个人信息后，在此完成报告！
 
-@Author:greenhandHanye  
+@Author:Canleaveye       计算机学院张含烨
 @Email:239064514@qq.com
 ## 完成情况汇报
 **总结（省流）几经折腾，终于完成在VScode上完成C语言环境配置**
