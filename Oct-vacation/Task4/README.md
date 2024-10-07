@@ -2,7 +2,7 @@
 
 请补充个人信息后，在此完成报告！
 
-@Author:  greenhandHanye
+@Author:  Canleaveye
 @Email:239064514@qq.com
 经过4天极速学习html和javascript后，终于像学C语言一开始笨拙地敲出helloworld一样笨拙地完成了开关小灯的任务
 讲讲学习过程和体会
