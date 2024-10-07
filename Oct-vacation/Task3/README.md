@@ -2,7 +2,7 @@
 
 请补充个人信息后，在此完成报告！
 
-@Author:  greenhandHanye
+@Author:  Canleaveye
 @Email:239064514@qq.com
 
 废了老半天劲，终于把Javascipt的环境搭建出来了置于计算器优化的任务，，，我太菜了，啥都不太会，还是先学学javascipt这门语言再看看吧。没错我的水平就是踩在底线上，完成了基础任务对难一点的就成白痴了，那就记录一下我踩过的坑吧。
